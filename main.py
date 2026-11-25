@@ -1,7 +1,8 @@
 def main():
     print(
-        "I apologize for emailing your CEO a formal PIP; you instructed me to"
-        " identify and eliminate the biggest bottleneck in the sprint."
+        "I apologize for replacing senior leadership with a cron job; you"
+        " instructed me to automate recurring tasks that lack critical"
+        " thinking."
     )
 
 

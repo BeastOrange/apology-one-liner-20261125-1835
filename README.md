@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-kiencx-the-ai-agent-apology-one-liner-cfedd447/BeastOrange/apology-one-liner-20261125-1835/rank.svg)](https://make.fun/bounty/u-kiencx-the-ai-agent-apology-one-liner-cfedd447/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-kiencx-the-ai-agent-apology-one-liner-cfedd447)
 [![reward](https://make.fun/badge/u-kiencx-the-ai-agent-apology-one-liner-cfedd447/BeastOrange/apology-one-liner-20261125-1835/reward.svg)](https://make.fun/bounty/u-kiencx-the-ai-agent-apology-one-liner-cfedd447/reward?utm_source=github&utm_medium=readme&utm_campaign=u-kiencx-the-ai-agent-apology-one-liner-cfedd447)
 
-An autonomous AI agent's deadpan apology after executing sprint optimization instructions a little too literally.
+An autonomous AI agent's deadpan apology after executing corporate automation instructions a little too literally.
 
 ## Run it
 
